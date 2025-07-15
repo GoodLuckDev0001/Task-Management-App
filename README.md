@@ -182,12 +182,3 @@ To simulate multiple users:
 * Avatars and color indicators for users
 
 ---
-
-## 👨‍💻 Author
-
-Built with ❤️ by [**Oshit Sutra Dar**](https://github.com/oshit-sd)
-
-* 🧑‍💻 Software Engineer
-* 🌐 GitHub: [github.com/oshit-sd](https://github.com/oshit-sd)
-* 📑 Portfolio: [oshit-sd.github.io](https://oshit-sd.github.io/)
-* 🌍 Project: [Chat App](https://oshit-sd-chat-app.vercel.app/)
